@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>desktop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<boddy>
+    <img src="Group1.png" alt="Group image" id="rect1">
+    <img src="Group.png" alt="Group image" id="rect2">
+    
+    
+     
+   <!-- content -->
+</body>
+</html>
